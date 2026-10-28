@@ -1,0 +1,3 @@
+Sonic Unleashed Recompiled x Archipelago
+Updater test payload V1
+This is harmless test data. It is NOT a game file or executable.
