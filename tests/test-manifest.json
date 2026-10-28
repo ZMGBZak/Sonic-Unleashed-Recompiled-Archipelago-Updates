@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "download-test-only",
+  "test_version": "1.0.0",
+  "files": [
+    {
+      "name": "test-update.txt",
+      "size": 130,
+      "sha256": "0e5411f522c7cdadecd52408f20e79b0bbe530334fe1aaba012cee8d23b545e5",
+      "url": "https://raw.githubusercontent.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/main/tests/payload/test-update.txt"
+    }
+  ]
+}
