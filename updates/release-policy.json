@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "policy_status": "pre_release_locked",
+  "approved_install_paths": [],
+  "denied_extensions": [
+    ".bak",
+    ".backup",
+    ".old",
+    ".orig",
+    ".tmp",
+    ".log",
+    ".dmp",
+    ".iso",
+    ".xex",
+    ".cpk",
+    ".arc",
+    ".afs",
+    ".xma",
+    ".wem",
+    ".bnk",
+    ".usm"
+  ],
+  "denied_names": [
+    "config.json",
+    "settings.json",
+    "save.dat"
+  ],
+  "denied_path_segments": [
+    "backup",
+    "backups",
+    "saves",
+    "save",
+    "userdata",
+    "logs",
+    "crashdumps",
+    "game",
+    "extracted",
+    "dump",
+    "dumps",
+    "roms",
+    "isos"
+  ],
+  "max_file_size_bytes": 104857600,
+  "notes": "Default deny. Do not add a path until redistribution rights and installation behavior are reviewed. This is policy metadata, not yet enforced by the in-game updater."
+}
