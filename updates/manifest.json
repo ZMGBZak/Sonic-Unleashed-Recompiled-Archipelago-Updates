@@ -1,8 +1,6 @@
 {
-    "schema_version":  1,
-    "client_version":  "0.8.1",
-    "client_download_url":  "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/download/v0.8.1/UnleashedRecomp.exe",
-    "client_sha256":  "504f9eeb6e5ed5093dae9f0f2c8402abf6d8e3b3d238f46eb21c3d60818f3837",
-    "apworld_version":  "0.8.0",
-    "notes":  "TEMPORARY GAME UPDATER TEST - 0.8.1. No APWorld auto-update."
+  "schema_version": 1,
+  "client_version": "0.8.0",
+  "apworld_version": "0.8.0",
+  "notes": "Beta version - updater under development."
 }
