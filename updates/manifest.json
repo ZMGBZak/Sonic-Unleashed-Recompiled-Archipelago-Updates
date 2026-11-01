@@ -1,6 +1,11 @@
 {
   "schema_version": 1,
-  "client_version": "0.8.0",
+  "client_version": "0.8.1",
   "apworld_version": "0.8.0",
-  "notes": "Beta version - updater under development."
+  "notes": "TEST PUBLIC v0.8.1 - Alternative Acts and DLC completion hotfix. Client binary release is experimental; automatic installation has not yet been validated.",
+  "client_release_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/tag/V0.8.1",
+  "client_download_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/download/V0.8.1/Sonic.X.Archipelago.V0.8.1.exe",
+  "client_asset_name": "Sonic.X.Archipelago.V0.8.1.exe",
+  "client_asset_size": 115007488,
+  "client_sha256": "0478ec6bc1b1c972fc5514031e6e96294723b82289206b4879a525b4efdbe0d8"
 }
