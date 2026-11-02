@@ -14,6 +14,18 @@ Public update metadata and release-download repository for the Archipelago conne
 
 Please credit the original authors and refer to the upstream repository for the base project. For source-code compliance, distributors must make the **complete corresponding source** for each released binary available, including any additional source files, modifications and applicable build/install scripts. A partial source snapshot is not sufficient by itself.
 
+## AI-Assisted Development & Human Oversight
+
+**Transparency about AI use:** The Archipelago-specific modifications in this project were developed through an ongoing collaboration between the project maintainer and ChatGPT (OpenAI), used as an AI-assisted programming and explanation tool.
+
+The maintainer originated the ideas, gameplay goals, feature requests and many proposed improvements for the Archipelago integration. We discussed the intended behavior, technical approaches and trade-offs before and during implementation. ChatGPT assisted by proposing and generating code, helping investigate bugs, and explaining what functions did, why particular changes were suggested, and how the changes were expected to work.
+
+**The maintainer remained actively involved throughout development.** They reviewed what was being added or corrected, challenged decisions, requested adjustments, suggested alternative approaches and further improvements, and compiled and tested successive changes in the game. Results from those tests informed subsequent fixes and iterations. AI-generated suggestions were not treated as automatically correct or accepted without human feedback.
+
+**This is not described by the maintainer as “vibe coding.”** Their intent was an iterative, collaborative development process: a human developer directing and testing the project while working with an AI coding assistant as a close development partner—much like a small team discussing, implementing, reviewing and improving features together. This is a description of the workflow, not a claim that the AI is a legal co-author, repository maintainer, or independent rights holder.
+
+The maintainer is responsible for decisions about what is published and for verifying the resulting software. **AI assistance does not replace code review, testing, security checks, attribution, or the license obligations of the upstream GPL-3.0 project.**
+
 ## How it works
 
 The game checks [`updates/manifest.json`](updates/manifest.json) for the current client and APWorld versions. The current published version is `0.8.2`, with manual downloads available on the [V0.8.2 release page](https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/tag/V0.8.2).
