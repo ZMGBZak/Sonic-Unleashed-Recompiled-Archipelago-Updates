@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
-  "client_version": "0.8.1",
-  "apworld_version": "0.8.0",
-  "notes": "TEST PUBLIC v0.8.1 - Alternative Acts and DLC completion hotfix. Client binary release is experimental; automatic installation has not yet been validated.",
-  "client_release_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/tag/V0.8.1",
-  "client_download_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/download/V0.8.1/Sonic.X.Archipelago.V0.8.1.exe",
-  "client_asset_name": "Sonic.X.Archipelago.V0.8.1.exe",
-  "client_asset_size": 115007488,
-  "client_sha256": "0478ec6bc1b1c972fc5514031e6e96294723b82289206b4879a525b4efdbe0d8"
+  "client_version": "0.8.2",
+  "apworld_version": "0.8.2",
+  "notes": "V0.8.2 public release: multiplayer item feed (experimental), progression logic/balancing and bug fixes. Download the ZIP and APWorld manually from the release page; automatic client installation is not enabled.",
+  "client_release_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/tag/V0.8.2",
+  "client_download_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/download/V0.8.2/SONIC.UNLEASHED.X.ARCHIPELAGOV0.8.2.zip",
+  "client_asset_name": "SONIC.UNLEASHED.X.ARCHIPELAGOV0.8.2.zip",
+  "client_asset_size": 59077141,
+  "client_sha256": "f952166d0acebe353647878d41467da08f9d3ce3cf6166e749dee9c46c642b9a",
+  "apworld_release_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/tag/V0.8.2",
+  "apworld_download_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/download/V0.8.2/sonic_unleashed.apworld",
+  "apworld_asset_name": "sonic_unleashed.apworld",
+  "apworld_asset_size": 19875,
+  "apworld_sha256": "188eb50f16fda2831b839c773c8d6c4a2466e0c5b61c291c5734f9970c2a079e"
 }
