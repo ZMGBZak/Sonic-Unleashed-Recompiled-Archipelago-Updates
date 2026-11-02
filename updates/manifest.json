@@ -12,5 +12,8 @@
   "apworld_download_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/download/V0.8.2/sonic_unleashed.apworld",
   "apworld_asset_name": "sonic_unleashed.apworld",
   "apworld_asset_size": 19875,
-  "apworld_sha256": "188eb50f16fda2831b839c773c8d6c4a2466e0c5b61c291c5734f9970c2a079e"
+  "apworld_sha256": "188eb50f16fda2831b839c773c8d6c4a2466e0c5b61c291c5734f9970c2a079e",
+  "upstream_project_url": "https://github.com/hedge-dev/UnleashedRecomp",
+  "modified_source_url": "https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago/tree/archipelago-prototype",
+  "project_relation": "Unofficial modified fork/derivative of hedge-dev/UnleashedRecomp; not affiliated with or endorsed by the upstream developers."
 }
