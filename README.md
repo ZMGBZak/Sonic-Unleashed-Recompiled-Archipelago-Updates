@@ -26,9 +26,12 @@ The maintainer originated the ideas, gameplay goals, feature requests and many p
 
 The maintainer is responsible for decisions about what is published and for verifying the resulting software. **AI assistance does not replace code review, testing, security checks, attribution, or the license obligations of the upstream GPL-3.0 project.**
 
+
+**V0.9 source and license notice:** The complete GPL-3.0 license text is available in [docs/GPL-3.0.txt](docs/GPL-3.0.txt). Refer to [V0.9 source status and redistribution checklist](docs/V0.9_SOURCE_STATUS.md) before redistributing the Windows/Linux binaries. **At the time of this update, the GitHub source branch has not yet been verified to contain the exact complete corresponding source for both V0.9 builds.** The binary release alone does not prove GPL compliance.
+
 ## How it works
 
-The game checks [`updates/manifest.json`](updates/manifest.json) for the current client and APWorld versions. The current published version is `0.8.2`, with manual downloads available on the [V0.8.2 release page](https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/tag/V0.8.2).
+The game checks [`updates/manifest.json`](updates/manifest.json) for the current client and APWorld versions. The latest published binary release is **V0.9 Beta**, with manual Windows, Linux and APWorld downloads on the [V0.9 release page](https://github.com/ZMGBZak/Sonic-Unleashed-Recompiled-Archipelago-Updates/releases/tag/V0.9). The [update manifest](updates/manifest.json) lists their exact published filenames, sizes and SHA-256 digests.
 
 The modified source repository is separate. Never upload a development/build/game directory wholesale.
 
